@@ -1,0 +1,25 @@
+#chart {
+    position: absolute;
+    left: 75%;
+    top: 5%;
+    bottom: 0;
+    width: 22%;
+    height: 20%;
+    background-color: beige;
+    opacity: 90%;
+    border: solid 1px burlywood;
+    border-radius: 15px;
+    z-index: 1000;
+}
+
+.axis>.tick> line {
+	stroke-opacity: 0;
+}
+
+.barBackground {
+    margin-top: -2px !important;
+}
+
+.right_axis {
+    opacity:0 !important;
+}

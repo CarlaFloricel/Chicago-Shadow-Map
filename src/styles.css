@@ -1,0 +1,9 @@
+@import '~ol/ol.css';
+@import "../node_modules/ol/ol.css";
+
+body {
+  padding: 0;
+  font-family: Arial,Helvetica,sans-serif;
+  margin: 0;
+  font-size: 12px;
+}
